@@ -4,37 +4,37 @@
 translate dutch CordEntrance_label_b9a07f28:
 
     # ch_Name "{i}(The academy is so big. How is it even possible to remember where to go?){/i}"
-    ch_Name ""
+    ch_Name "{i}(De academie is zo groot. Hoe is het mogelijk om te weten waar je moet gaan?){/i}"
 
 # game/logic/tutorial.rpy:579
 translate dutch CordEntrance_label_3165fc11:
 
     # ch_Name "{i}(I think the guy going up the stairs is also a freshman.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ik denk dat de gast die de trappen opgaat ook een groentje is.){/i}"
 
 # game/logic/tutorial.rpy:580
 translate dutch CordEntrance_label_016e0679:
 
     # ch_Name "{i}(But why is he going there? Should I follow him?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Maar waarom gaat hij daar naartoe? Zou ik hem volgen?){/i}"
 
 # game/logic/tutorial.rpy:582
 translate dutch CordEntrance_label_d0e1233a:
 
     # Jacob "Where do you think you're going, Mr. Brown?"
-    Jacob ""
+    Jacob "Waar denk je dat je heen gaat, m. Brown?"
 
 # game/logic/tutorial.rpy:583
 translate dutch CordEntrance_label_4b7232ff:
 
     # Carter "Good afternoon, Mr. Frollo."
-    Carter ""
+    Carter "Goeie namiddag, m. Frollo."
 
 # game/logic/tutorial.rpy:584
 translate dutch CordEntrance_label_77d471be:
 
     # Carter "Ehm... Where? Why..."
-    Carter ""
+    Carter "Umm... Waar? Waarom..."
 
 # game/logic/tutorial.rpy:585
 translate dutch CordEntrance_label_00959311:
@@ -46,163 +46,163 @@ translate dutch CordEntrance_label_00959311:
 translate dutch CordEntrance_label_2950cae5:
 
     # Jacob "And what are you doing on the second floor, then?"
-    Jacob ""
+    Jacob "En wat doe je op de tweede verdieping dan?"
 
 # game/logic/tutorial.rpy:588
 translate dutch CordEntrance_label_df5a3cec:
 
     # Carter "Isn't that where I need to go?"
-    Carter ""
+    Carter "Is dat niet waar ik moet zijn?"
 
 # game/logic/tutorial.rpy:589
 translate dutch CordEntrance_label_c3688de3:
 
     # Jacob "I thought Crowhive took bright students."
-    Jacob ""
+    Jacob "Ik dacht dat Crowhive intelligente studenten aannam."
 
 # game/logic/tutorial.rpy:590
 translate dutch CordEntrance_label_26ca3eeb:
 
     # Jacob "It's sad to see Jaina's standards fall so low."
-    Jacob ""
+    Jacob "Jammer om te zien hoe laag Jaina's standaarden gevallen zijn."
 
 # game/logic/tutorial.rpy:591
 translate dutch CordEntrance_label_f96d3ac5:
 
     # Jacob "First-year students have no business being on the second floor of the academy."
-    Jacob ""
+    Jacob "Eerstejaarsstudenten hebben geen zaken op de tweede verdieping van de academie."
 
 # game/logic/tutorial.rpy:592
 translate dutch CordEntrance_label_d3703568:
 
     # Carter "But, sir..."
-    Carter ""
+    Carter "Maar, meneer..."
 
 # game/logic/tutorial.rpy:593
 translate dutch CordEntrance_label_37219890:
 
     # Carter "Where should I go then?"
-    Carter ""
+    Carter "Waar moet ik dan naartoe?"
 
 # game/logic/tutorial.rpy:595
 translate dutch CordEntrance_label_0fdab458:
 
     # Jacob "The entrance to the library and the classrooms is in the inner courtyard of the academy."
-    Jacob ""
+    Jacob "De ingang tot de bibliotheek en klaslokalen is aan de binnenplaats van de academie."
 
 # game/logic/tutorial.rpy:596
 translate dutch CordEntrance_label_824eb68a:
 
     # Jacob "To get there, just go through one of the two arches on either side of the stairs."
-    Jacob ""
+    Jacob "Om daar te geraken ga je gewoon door een van de twee bogen aan beide kanten van de trap."
 
 # game/logic/tutorial.rpy:597
 translate dutch CordEntrance_label_fca81d84:
 
     # Jacob "Then turn to left. You need the first door."
-    Jacob ""
+    Jacob "Dan sla je links af. Je moet bij de eerste deur zijn."
 
 # game/logic/tutorial.rpy:598
 translate dutch CordEntrance_label_4d0a14f3:
 
     # Carter "But there are so many arches..."
-    Carter ""
+    Carter "Maar er zijn zoveel bogen..."
 
 # game/logic/tutorial.rpy:599
 translate dutch CordEntrance_label_b7843e2d:
 
     # Jacob "You're a messed up case, aren't you?"
-    Jacob ""
+    Jacob "Je bent niet goed bij het hoofd, of wel?"
 
 # game/logic/tutorial.rpy:601
 translate dutch CordEntrance_label_0313eace:
 
     # Jacob "You need those arches over there. "
-    Jacob ""
+    Jacob "Je gaat door die bogen daar."
 
 # game/logic/tutorial.rpy:602
 translate dutch CordEntrance_label_29142250:
 
     # Jacob "If you look from the entrance to the academy, they're straight ahead."
-    Jacob ""
+    Jacob "Als je van de ingang van de academie kijkt, zijn ze rechtdoor."
 
 # game/logic/tutorial.rpy:603
 translate dutch CordEntrance_label_afff9aa0:
 
     # Jacob "I hope you can work it out from there, you were there when you took your exam."
-    Jacob ""
+    Jacob "Ik hoop dat je het van daar kunt uitvissen, je was daar om je examen af te leggen."
 
 # game/logic/tutorial.rpy:604
 translate dutch CordEntrance_label_f5190618:
 
     # Jacob "Do you understand?"
-    Jacob ""
+    Jacob "Versta je mij?"
 
 # game/logic/tutorial.rpy:606
 translate dutch CordEntrance_label_91729c82:
 
     # Carter "I think so."
-    Carter ""
+    Carter "Ik denk het."
 
 # game/logic/tutorial.rpy:607
 translate dutch CordEntrance_label_4614f3ee:
 
     # Carter "Thank you for your help."
-    Carter ""
+    Carter "Bedankt voor de hulp."
 
 # game/logic/tutorial.rpy:608
 translate dutch CordEntrance_label_bc91fdd7:
 
     # Jacob "Don't mention it. Try to be more attentive, Mr Brown."
-    Jacob ""
+    Jacob "'t Is niets. Probeer meer op te letten, m. Brown."
 
 # game/logic/tutorial.rpy:609
 translate dutch CordEntrance_label_a8ebf1f0:
 
     # Jacob "The rules are there for a reason. It would be a shame to get expelled for such foolishness."
-    Jacob ""
+    Jacob "De regels zijn er voor een reden. Het zou zonde zijn om verbannen te worden voor zo'n onzin."
 
 # game/logic/tutorial.rpy:610
 translate dutch CordEntrance_label_7d6017ea:
 
     # Carter "Yes, sir."
-    Carter ""
+    Carter "Ja, meneer."
 
 # game/logic/tutorial.rpy:612
 translate dutch CordEntrance_label_b2235bb4:
 
     # ch_Name "{i}(Phew, it's a good thing I didn't have time to follow him.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Wat een opluchting, gelukkig had ik geen tijd om hem te volgen.){/i}"
 
 # game/logic/tutorial.rpy:613
 translate dutch CordEntrance_label_7ca1a037:
 
     # ch_Name "{i}(Or I'd have gotten my ass kicked by Jacob.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Of ik zou een schop onder mijn kont door Jacob gekregen hebben.){/i}"
 
 # game/logic/tutorial.rpy:614
 translate dutch CordEntrance_label_4ed7d299:
 
     # ch_Name "{i}(I wonder what's on the second floor that students aren't allowed up there.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ik vraag me af wat er op de tweede verdieping is dat studenten er niet mogen komen.){/i}"
 
 # game/logic/tutorial.rpy:615
 translate dutch CordEntrance_label_89fc7eb8:
 
     # ch_Name "{i}(Okay, I'll leave that out of my head now.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Oké, ik ga hier nu niet aan denken.){/i}"
 
 # game/logic/tutorial.rpy:617
 translate dutch CordEntrance_label_a185157a:
 
     # ch_Name "{i}(I have so much to do before school starts.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ik heb nog zo veel te doen voor de school begint.){/i}"
 
 # game/logic/tutorial.rpy:618
 translate dutch CordEntrance_label_478994c0:
 
     # ch_Name "{i}(And first of all - learn how not to get lost here.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ten eerste - leren niet verloren lopen hier.){/i}"
 
 # game/logic/tutorial.rpy:619
 translate dutch CordEntrance_label_53648e18:
