@@ -105,7 +105,7 @@ translate dutch strings:
 
     # renpy/common/00accessibility.rpy:202
     old "The options on this menu are intended to improve accessibility. They may not work with all games, and some combinations of options may render the game unplayable. This is not an issue with the game or engine. For the best results when changing fonts, try to keep the text size the same as it originally was."
-    new "De opties in dit menu zijn bedoelt om de toegankelijkheid te bevorderen. Ze werken misschien niet met alle spellen, en sommige combinaties kunnen ervoor zorgen dat het spel onspeelbaar wordt. Dit is geen probleem van het spel of de engine. Voor het beste resultaat bij het wijzigen van lettertypes, probeer het tekstformaat hetzelfde te houden als het van origine was."
+    new "De opties in dit menu zijn bedoeld om de toegankelijkheid te bevorderen. Ze werken misschien niet met alle spellen, en sommige combinaties kunnen ervoor zorgen dat het spel onspeelbaar wordt. Dit is geen probleem van het spel of de engine. Voor het beste resultaat bij het wijzigen van lettertypes, probeer het tekstformaat hetzelfde te houden als het van origine was."
 
     # renpy/common/00accessibility.rpy:207
     old "Return"
